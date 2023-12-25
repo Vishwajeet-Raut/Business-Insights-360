@@ -78,8 +78,7 @@ This PowerBi report helps make decisions based on data. It's a crucial tool for 
 
 ### Modelling View
 
-![BI 360 modelling](https://github.com/Vishwajeet-Raut/Business-Insights-360/assets/120458113/3cb02f17-b631-4b7a-a1c3-ca5696f521dc)
-
+![BI 360 modelling](https://github.com/Vishwajeet-Raut/Business-Insights-360/assets/120458113/2ef7ebb9-e46e-43f4-b313-61ff3ae385d0)
 
 ### Home
 
