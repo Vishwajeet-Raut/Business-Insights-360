@@ -82,4 +82,4 @@ This PowerBi report helps make decisions based on data. It's a crucial tool for 
 
 ### Home
 
-![blackbi360](https://github.com/Vishwajeet-Raut/Business-Insights-360/assets/120458113/108addd6-c1fa-4c64-9d22-693add5f9212)
+![blackbi360](https://github.com/Vishwajeet-Raut/Business-Insights-360/assets/120458113/984fdcaf-c7c0-4658-a7e1-3589cc3da4d2)
